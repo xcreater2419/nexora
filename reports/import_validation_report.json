@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-09-25T20:12:41.977Z",
+  "input_file": "C:\\Users\\ganes\\.gemini\\antigravity-ide\\scratch\\nexora\\data\\verified_catalog.json",
+  "total_evaluated": 42,
+  "total_verified_unique": 42,
+  "duplicates_rejected": 0,
+  "invalid_records_rejected": 0,
+  "rejection_reasons_breakdown": {
+    "duplicates": 0,
+    "synthetic_or_fictional": 0,
+    "unverified_brand": 0,
+    "missing_fields": 0,
+    "invalid_pricing": 0,
+    "invalid_category": 0
+  },
+  "category_breakdown": {
+    "Mobiles & Tablets": 14,
+    "Laptops & Computers": 8,
+    "Audio & Wearables": 7,
+    "Home & Kitchen": 5,
+    "Fashion & Apparel": 4,
+    "Beauty & Grooming": 4
+  },
+  "brand_breakdown": {
+    "Apple": 9,
+    "Samsung": 4,
+    "OnePlus": 2,
+    "Google": 2,
+    "ASUS": 1,
+    "Dell": 1,
+    "HP": 1,
+    "Lenovo": 1,
+    "Logitech": 2,
+    "Sony": 2,
+    "boAt": 2,
+    "Noise": 1,
+    "Titan": 1,
+    "Philips": 3,
+    "Prestige": 1,
+    "Dyson": 1,
+    "Hawkins": 1,
+    "Bajaj": 1,
+    "Levi's": 2,
+    "Fabindia": 2,
+    "Forest Essentials": 2
+  }
+}

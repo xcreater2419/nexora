@@ -1,0 +1,1240 @@
+[
+  {
+    "product_name": "Apple iPhone 16 Pro (128GB - Desert Titanium)",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "model_identifier": "MYNF3HN/A",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 119900,
+    "demo_selling_price_inr": 112900,
+    "demo_stock_quantity": 45,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 342,
+    "warranty_info": "1 Year Apple India Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Grade 5 Titanium design with refined microblasted finish",
+      "Camera Control button for instant capture and visual intelligence",
+      "A18 Pro chip enables console-grade gaming and battery efficiency"
+    ],
+    "specifications": {
+      "Display": "6.3-inch Super Retina XDR OLED 120Hz",
+      "Chipset": "A18 Pro Chip with 6-core GPU",
+      "Storage": "128GB",
+      "Camera": "48MP Fusion + 48MP Ultra Wide + 12MP 5x Telephoto",
+      "OS": "iOS 18"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Apple iPhone 16 Pro Max (256GB - Natural Titanium)",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "model_identifier": "MYWU3HN/A",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 144900,
+    "demo_selling_price_inr": 139900,
+    "demo_stock_quantity": 32,
+    "demo_rating": 4.9,
+    "demo_reviews_count": 489,
+    "warranty_info": "1 Year Apple India Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Largest 6.9-inch Super Retina XDR display with thinnest borders",
+      "Industry-leading battery life up to 33 hours video playback",
+      "Next-generation Photographic Styles with real-time tone and color grading"
+    ],
+    "specifications": {
+      "Display": "6.9-inch Super Retina XDR OLED 120Hz",
+      "Chipset": "A18 Pro Chip with 6-core GPU",
+      "Storage": "256GB",
+      "Camera": "48MP Fusion + 48MP Ultra Wide + 12MP 5x Telephoto",
+      "Battery": "Up to 33 hours video playback"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Apple iPhone 16 (128GB - Ultramarine)",
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "model_identifier": "MYEF3HN/A",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 79900,
+    "demo_selling_price_inr": 74900,
+    "demo_stock_quantity": 60,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 215,
+    "warranty_info": "1 Year Apple India Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Aerospace-grade aluminum enclosure with color-infused back glass",
+      "A18 Bionic chip with 5-core GPU and Apple Intelligence",
+      "48MP Fusion camera with 2x optical-quality Telephoto"
+    ],
+    "specifications": {
+      "Display": "6.1-inch Super Retina XDR OLED 60Hz",
+      "Chipset": "A18 Bionic Chip",
+      "Storage": "128GB",
+      "Camera": "48MP Fusion + 12MP Ultra Wide",
+      "OS": "iOS 18"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Apple iPhone 15 (128GB - Black)",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "model_identifier": "MTP03HN/A",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 69900,
+    "demo_selling_price_inr": 58999,
+    "demo_stock_quantity": 75,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 890,
+    "warranty_info": "1 Year Apple India Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Dynamic Island bubbles up alerts and Live Activities",
+      "48MP main camera captures super-high-resolution photos",
+      "Universal USB-C connector with DisplayPort support"
+    ],
+    "specifications": {
+      "Display": "6.1-inch Super Retina XDR OLED",
+      "Chipset": "A16 Bionic Chip",
+      "Storage": "128GB",
+      "Connector": "USB-C",
+      "Camera": "48MP + 12MP"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Samsung Galaxy S24 Ultra 5G (12GB RAM, 256GB - Titanium Gray)",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "model_identifier": "SM-S928B/DS",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 134999,
+    "demo_selling_price_inr": 121999,
+    "demo_stock_quantity": 38,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 289,
+    "warranty_info": "1 Year Manufacturer Comprehensive Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Built-in S Pen with Galaxy AI Circle to Search and Live Translation",
+      "Corning Gorilla Armor anti-reflective glass with Titanium unibody",
+      "200MP Quad Tele System with AI ProVisual Zoom"
+    ],
+    "specifications": {
+      "Display": "6.8-inch Dynamic AMOLED 2X 120Hz QHD+",
+      "Processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh with 45W Fast Charging"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Samsung Galaxy S24 5G (8GB RAM, 128GB - Onyx Black)",
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "model_identifier": "SM-S921B/DS",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 79999,
+    "demo_selling_price_inr": 64999,
+    "demo_stock_quantity": 50,
+    "demo_rating": 4.6,
+    "demo_reviews_count": 178,
+    "warranty_info": "1 Year Manufacturer Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Compact 6.2-inch FHD+ Dynamic AMOLED 2X display",
+      "Galaxy AI photo assist and transcript generation",
+      "Armor Aluminum 2.0 with IP68 water & dust resistance"
+    ],
+    "specifications": {
+      "Display": "6.2-inch Dynamic AMOLED 2X 120Hz",
+      "Processor": "Exynos 2400 10-core 4nm",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "4000mAh"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Fold 6 5G (12GB RAM, 256GB - Silver Shadow)",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 6",
+    "model_identifier": "SM-F956B/DS",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 164999,
+    "demo_selling_price_inr": 154999,
+    "demo_stock_quantity": 18,
+    "demo_rating": 4.6,
+    "demo_reviews_count": 94,
+    "warranty_info": "1 Year Samsung India Warranty including 1-time screen replacement",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Thinner and lighter dual-rail flex hinge design",
+      "Massive 7.6-inch Dynamic AMOLED 2X inner folding display",
+      "Galaxy AI Composer and Note Assist for multi-window productivity"
+    ],
+    "specifications": {
+      "Inner Display": "7.6-inch Foldable Dynamic AMOLED 2X 120Hz",
+      "Cover Display": "6.3-inch Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "RAM": "12GB",
+      "Storage": "256GB"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "OnePlus 12 5G (12GB RAM, 256GB - Silky Black)",
+    "brand": "OnePlus",
+    "model": "OnePlus 12",
+    "model_identifier": "CPH2573",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 64999,
+    "demo_selling_price_inr": 59999,
+    "demo_stock_quantity": 65,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 512,
+    "warranty_info": "1 Year Comprehensive Manufacturer Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Ultra-bright 4500 nits 2K ProXDR display with Aqua Touch",
+      "Dual Cryo-velocity VC cooling system for sustained gaming",
+      "100W SUPERVOOC wired + 50W AIRVOOC wireless charging"
+    ],
+    "specifications": {
+      "Display": "6.82-inch 2K ProXDR 120Hz LTPO OLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Camera": "4th Gen Hasselblad Camera System (50MP + 64MP + 48MP)",
+      "Battery": "5400mAh"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "OnePlus 12R 5G (8GB RAM, 128GB - Cool Blue)",
+    "brand": "OnePlus",
+    "model": "OnePlus 12R",
+    "model_identifier": "CPH2585",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Mid-Range Value",
+    "demo_mrp_inr": 39999,
+    "demo_selling_price_inr": 35999,
+    "demo_stock_quantity": 80,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 620,
+    "warranty_info": "1 Year Comprehensive Manufacturer Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "4th Gen LTPO 1.5K 120Hz display with Dolby Vision",
+      "Largest 5500mAh battery ever on a OnePlus flagship phone",
+      "100W SUPERVOOC charging charges 1-100% in 26 minutes"
+    ],
+    "specifications": {
+      "Display": "6.78-inch 1.5K LTPO4 AMOLED 120Hz",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5500mAh with 100W Fast Charging"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Google Pixel 9 Pro XL (16GB RAM, 128GB - Hazel)",
+    "brand": "Google",
+    "model": "Pixel 9 Pro XL",
+    "model_identifier": "GEC77",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Flagship Smartphones",
+    "demo_mrp_inr": 124999,
+    "demo_selling_price_inr": 119999,
+    "demo_stock_quantity": 25,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 140,
+    "warranty_info": "1 Year Google India Manufacturer Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Google Tensor G4 chip with 16GB RAM for advanced Gemini Nano AI",
+      "Pro triple camera system with 5x Telephoto and 8K Video Boost",
+      "Super Actua display with 3000 nits peak brightness"
+    ],
+    "specifications": {
+      "Display": "6.8-inch Super Actua LTPO OLED 120Hz",
+      "Processor": "Google Tensor G4 with Titan M2",
+      "RAM": "16GB",
+      "Storage": "128GB",
+      "Camera": "50MP Main + 48MP Ultrawide + 48MP Telephoto"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Google Pixel 8a (8GB RAM, 128GB - Bay)",
+    "brand": "Google",
+    "model": "Pixel 8a",
+    "model_identifier": "G8HHN",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Mid-Range Value",
+    "demo_mrp_inr": 52999,
+    "demo_selling_price_inr": 44999,
+    "demo_stock_quantity": 40,
+    "demo_rating": 4.6,
+    "demo_reviews_count": 230,
+    "warranty_info": "1 Year Google India Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Google Tensor G3 chip enables Best Take, Audio Magic Eraser & Circle to Search",
+      "64MP main camera with Night Sight and Super Res Zoom up to 8x",
+      "Guaranteed 7 years of OS, security and Feature Drop updates"
+    ],
+    "specifications": {
+      "Display": "6.1-inch Actua OLED 120Hz",
+      "Processor": "Google Tensor G3",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "4492mAh with wireless charging"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Apple iPad Air 11-inch (M2 chip, Wi-Fi 128GB - Space Grey)",
+    "brand": "Apple",
+    "model": "iPad Air 11-inch M2",
+    "model_identifier": "MUWC3HN/A",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Tablets & iPads",
+    "demo_mrp_inr": 59900,
+    "demo_selling_price_inr": 56900,
+    "demo_stock_quantity": 35,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 165,
+    "warranty_info": "1 Year Apple Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Blazing-fast Apple M2 chip with 8-core CPU and 10-core GPU",
+      "11-inch Liquid Retina display with P3 wide color and True Tone",
+      "Landscape 12MP Ultra Wide front camera with Center Stage"
+    ],
+    "specifications": {
+      "Display": "11-inch Liquid Retina IPS Display (2360 x 1640)",
+      "Chipset": "Apple M2 Chip",
+      "Storage": "128GB",
+      "Biometrics": "Touch ID in Top Button",
+      "Apple Pencil": "Apple Pencil Pro & USB-C compatible"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Apple iPad 10th Gen (10.9-inch, Wi-Fi 64GB - Blue)",
+    "brand": "Apple",
+    "model": "iPad 10th Gen",
+    "model_identifier": "MPQ03HN/A",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Tablets & iPads",
+    "demo_mrp_inr": 34900,
+    "demo_selling_price_inr": 31900,
+    "demo_stock_quantity": 60,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 420,
+    "warranty_info": "1 Year Apple Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "All-screen design with 10.9-inch Liquid Retina display",
+      "A14 Bionic chip delivers power for creative and educational apps",
+      "USB-C connector and landscape stereo speakers"
+    ],
+    "specifications": {
+      "Display": "10.9-inch Liquid Retina Display (2360 x 1640)",
+      "Chipset": "A14 Bionic Chip",
+      "Storage": "64GB",
+      "Connector": "USB-C",
+      "Camera": "12MP Wide back, 12MP Landscape Ultra Wide front"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Samsung Galaxy Tab S9 FE (10.9-inch, Wi-Fi 128GB - Gray)",
+    "brand": "Samsung",
+    "model": "Galaxy Tab S9 FE",
+    "model_identifier": "SM-X510",
+    "category": "Mobiles & Tablets",
+    "subcategory": "Tablets & iPads",
+    "demo_mrp_inr": 44999,
+    "demo_selling_price_inr": 33999,
+    "demo_stock_quantity": 45,
+    "demo_rating": 4.6,
+    "demo_reviews_count": 198,
+    "warranty_info": "1 Year Samsung India Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Inbox water and dust resistant IP68 certified S Pen included",
+      "Bright 10.9-inch 90Hz display with Vision Booster technology",
+      "8000mAh battery supporting 45W super-fast charging"
+    ],
+    "specifications": {
+      "Display": "10.9-inch WQXGA LCD 90Hz",
+      "Processor": "Exynos 1380 Octa-core",
+      "RAM": "6GB",
+      "Storage": "128GB (Expandable up to 1TB)",
+      "S Pen": "Included in box (IP68)"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Apple MacBook Air 15-inch (M3 chip, 8GB Unified Memory, 256GB SSD - Starlight)",
+    "brand": "Apple",
+    "model": "MacBook Air 15-inch M3",
+    "model_identifier": "MXD13HN/A",
+    "category": "Laptops & Computers",
+    "subcategory": "Ultrabooks & MacBooks",
+    "demo_mrp_inr": 134900,
+    "demo_selling_price_inr": 124900,
+    "demo_stock_quantity": 30,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 142,
+    "warranty_info": "1 Year Apple Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Remarkably thin 11.5mm aluminum fanless enclosure",
+      "Expansive 15.3-inch Liquid Retina display with 500 nits brightness",
+      "Up to 18 hours of battery life and dual external display support"
+    ],
+    "specifications": {
+      "Display": "15.3-inch Liquid Retina Display (2880 x 1864)",
+      "Processor": "Apple M3 Chip (8-core CPU, 10-core GPU)",
+      "Unified Memory": "8GB",
+      "Storage": "256GB PCIe SSD",
+      "Weight": "1.51 kg"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Apple MacBook Pro 14-inch (M3 Pro chip, 18GB Unified Memory, 512GB SSD - Space Black)",
+    "brand": "Apple",
+    "model": "MacBook Pro 14-inch M3 Pro",
+    "model_identifier": "MRX33HN/A",
+    "category": "Laptops & Computers",
+    "subcategory": "Ultrabooks & MacBooks",
+    "demo_mrp_inr": 199900,
+    "demo_selling_price_inr": 184900,
+    "demo_stock_quantity": 20,
+    "demo_rating": 4.9,
+    "demo_reviews_count": 88,
+    "warranty_info": "1 Year Apple Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "M3 Pro chip with hardware-accelerated ray tracing and mesh shading",
+      "Liquid Retina XDR display with 1600 nits peak HDR brightness and ProMotion 120Hz",
+      "Anodization seal reduces fingerprint appearance on Space Black finish"
+    ],
+    "specifications": {
+      "Display": "14.2-inch Liquid Retina XDR Mini-LED 120Hz",
+      "Processor": "Apple M3 Pro (11-core CPU, 14-core GPU)",
+      "Unified Memory": "18GB",
+      "Storage": "512GB PCIe SSD",
+      "Ports": "3x Thunderbolt 4, HDMI, SDXC, MagSafe 3"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "ASUS ROG Zephyrus G14 (AMD Ryzen 9 8945HS, RTX 4070 8GB, 32GB RAM, 1TB SSD - Eclipse Gray)",
+    "brand": "ASUS",
+    "model": "ROG Zephyrus G14 GA403UI",
+    "model_identifier": "GA403UI-QS062WS",
+    "category": "Laptops & Computers",
+    "subcategory": "Gaming Laptops",
+    "demo_mrp_inr": 199990,
+    "demo_selling_price_inr": 179990,
+    "demo_stock_quantity": 15,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 64,
+    "warranty_info": "1 Year ASUS Onsite Domestic Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Gorgeous 3K 120Hz 0.2ms OLED ROG Nebula display with G-SYNC",
+      "CNC aluminum unibody weighing only 1.5kg with Slash Lighting LED lid",
+      "NVIDIA GeForce RTX 4070 Laptop GPU with 90W TGP and MUX Switch"
+    ],
+    "specifications": {
+      "Display": "14-inch 3K (2880 x 1800) OLED 120Hz 500 nits",
+      "Processor": "AMD Ryzen 9 8945HS with Ryzen AI NPU",
+      "Graphics": "NVIDIA GeForce RTX 4070 8GB GDDR6",
+      "RAM": "32GB LPDDR5X",
+      "Storage": "1TB M.2 PCIe 4.0 SSD"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Dell XPS 13 (Intel Core Ultra 7 155H, 16GB LPDDR5x, 512GB SSD, FHD+ InfinityEdge - Platinum)",
+    "brand": "Dell",
+    "model": "XPS 13 9340",
+    "model_identifier": "XPS9340-U716512",
+    "category": "Laptops & Computers",
+    "subcategory": "Ultrabooks & MacBooks",
+    "demo_mrp_inr": 149990,
+    "demo_selling_price_inr": 139990,
+    "demo_stock_quantity": 22,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 52,
+    "warranty_info": "1 Year Dell Premium Support with Onsite Service",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Iconic minimalist design with seamless glass haptic touchpad and touch function row",
+      "Intel Core Ultra 7 processor with dedicated AI NPU acceleration",
+      "Machined aluminum and Gorilla Glass 3 construction weighing 1.19kg"
+    ],
+    "specifications": {
+      "Display": "13.4-inch FHD+ (1920 x 1200) InfinityEdge 500 nits 120Hz",
+      "Processor": "Intel Core Ultra 7 155H (16 cores, up to 4.8 GHz)",
+      "RAM": "16GB LPDDR5x 7467 MT/s",
+      "Storage": "512GB PCIe 4.0 NVMe SSD",
+      "Weight": "1.19 kg"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "HP Omen 16 Gaming Laptop (Intel 14th Gen Core i7-14700HX, RTX 4060 8GB, 16GB RAM, 1TB SSD)",
+    "brand": "HP",
+    "model": "Omen 16-wf1025TX",
+    "model_identifier": "16-wf1025TX",
+    "category": "Laptops & Computers",
+    "subcategory": "Gaming Laptops",
+    "demo_mrp_inr": 154990,
+    "demo_selling_price_inr": 134990,
+    "demo_stock_quantity": 25,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 76,
+    "warranty_info": "1 Year HP Onsite Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "14th Gen Intel Core i7-14700HX 20-core processor",
+      "16.1-inch QHD 240Hz 3ms IPS anti-glare display with 100% sRGB",
+      "Omen Tempest Cooling technology with 3-sided venting and 5-way airflow"
+    ],
+    "specifications": {
+      "Display": "16.1-inch QHD (2560 x 1440) 240Hz 3ms IPS",
+      "Processor": "Intel Core i7-14700HX (20 cores, 28 threads)",
+      "Graphics": "NVIDIA GeForce RTX 4060 8GB GDDR6 (140W TGP)",
+      "RAM": "16GB DDR5 5600MHz",
+      "Storage": "1TB Gen4 NVMe SSD"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Lenovo ThinkPad X1 Carbon Gen 12 (Intel Core Ultra 7 155H, 32GB RAM, 1TB SSD, 2.8K OLED)",
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon Gen 12",
+    "model_identifier": "21KC005VIG",
+    "category": "Laptops & Computers",
+    "subcategory": "Ultrabooks & MacBooks",
+    "demo_mrp_inr": 239990,
+    "demo_selling_price_inr": 214990,
+    "demo_stock_quantity": 14,
+    "demo_rating": 4.9,
+    "demo_reviews_count": 41,
+    "warranty_info": "3 Years Lenovo Premier Support with Accidental Damage Protection",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Legendary ThinkPad keyboard with tactile markings and TrackPoint Quick Menu",
+      "Ultralight carbon fiber unibody meeting MIL-STD-810H durability standards",
+      "Stunning 14-inch 2.8K 120Hz OLED display with Dolby Vision"
+    ],
+    "specifications": {
+      "Display": "14-inch 2.8K (2880 x 1800) OLED 120Hz 400 nits HDR500",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": "32GB LPDDR5X",
+      "Storage": "1TB PCIe Gen 4 Performance SSD",
+      "Weight": "1.09 kg"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Logitech MX Master 3S Wireless Performance Mouse (Graphite)",
+    "brand": "Logitech",
+    "model": "MX Master 3S",
+    "model_identifier": "910-006561",
+    "category": "Laptops & Computers",
+    "subcategory": "Monitors & Keyboards",
+    "demo_mrp_inr": 10995,
+    "demo_selling_price_inr": 8995,
+    "demo_stock_quantity": 90,
+    "demo_rating": 4.9,
+    "demo_reviews_count": 840,
+    "warranty_info": "1 Year Limited Hardware Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Quiet Clicks technology reduces 90% click noise while maintaining tactile feel",
+      "8000 DPI Darkfield sensor tracks on any surface including glass",
+      "MagSpeed Electromagnetic scrolling scrolls 1000 lines per second"
+    ],
+    "specifications": {
+      "Sensor": "Darkfield High Precision 8000 DPI",
+      "Scroll Wheel": "MagSpeed Electromagnetic SmartShift",
+      "Battery Life": "Up to 70 days on full charge",
+      "Connectivity": "Bluetooth Low Energy + Logi Bolt USB Receiver"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Logitech G502 HERO High Performance Wired Gaming Mouse (Black)",
+    "brand": "Logitech",
+    "model": "G502 HERO",
+    "model_identifier": "910-005472",
+    "category": "Laptops & Computers",
+    "subcategory": "Monitors & Keyboards",
+    "demo_mrp_inr": 5495,
+    "demo_selling_price_inr": 3995,
+    "demo_stock_quantity": 110,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 1250,
+    "warranty_info": "2 Years Limited Hardware Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "HERO 25K optical gaming sensor with 1:1 tracking up to 25600 DPI",
+      "11 programmable buttons with dual-mode hyper-fast scroll wheel",
+      "Adjustable weight system with five removable 3.6g weights"
+    ],
+    "specifications": {
+      "Sensor": "HERO 25K (100 - 25600 DPI)",
+      "Max Acceleration": "> 40G",
+      "Report Rate": "1000Hz (1ms)",
+      "RGB": "LIGHTSYNC 16.8M colors"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones (Black)",
+    "brand": "Sony",
+    "model": "WH-1000XM5",
+    "model_identifier": "WH1000XM5/B",
+    "category": "Audio & Wearables",
+    "subcategory": "Over-Ear Headphones",
+    "demo_mrp_inr": 34990,
+    "demo_selling_price_inr": 26990,
+    "demo_stock_quantity": 52,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 512,
+    "warranty_info": "1 Year Sony India Domestic Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Dual Processors V1 and QN1 control 8 microphones for unparalleled ANC",
+      "Specially designed 30mm carbon fiber driver unit delivers natural sound quality",
+      "Up to 30 hours battery life with quick charging (3 min charge for 3 hours playback)"
+    ],
+    "specifications": {
+      "Headphone Type": "Closed Dynamic Over-Ear",
+      "Driver Unit": "30mm Carbon Fiber Composite",
+      "Bluetooth": "Version 5.2 with LDAC, AAC, SBC",
+      "Weight": "250g",
+      "Battery": "30 hours (ANC ON), 40 hours (ANC OFF)"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Sony WF-1000XM5 Truly Wireless Noise Cancelling Earbuds (Silver)",
+    "brand": "Sony",
+    "model": "WF-1000XM5",
+    "model_identifier": "WF1000XM5/S",
+    "category": "Audio & Wearables",
+    "subcategory": "TWS Earbuds",
+    "demo_mrp_inr": 29990,
+    "demo_selling_price_inr": 21990,
+    "demo_stock_quantity": 40,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 320,
+    "warranty_info": "1 Year Sony India Domestic Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Dynamic Driver X reproduces wide frequencies and deep authentic bass",
+      "Two proprietary processors and dual feedback microphones cancel low frequency noise",
+      "AI-based bone conduction sensors and deep neural network for clear calls"
+    ],
+    "specifications": {
+      "Driver Unit": "8.4mm Dynamic Driver X",
+      "Water Resistance": "IPX4",
+      "Battery Life": "8 hours in earbuds + 16 hours in case (24 hours total)",
+      "Hi-Res Audio": "LDAC and DSEE Extreme certified"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Apple AirPods Pro 2nd Gen with USB-C Charging Case (White)",
+    "brand": "Apple",
+    "model": "AirPods Pro 2",
+    "model_identifier": "MTJV3HN/A",
+    "category": "Audio & Wearables",
+    "subcategory": "TWS Earbuds",
+    "demo_mrp_inr": 24900,
+    "demo_selling_price_inr": 22900,
+    "demo_stock_quantity": 70,
+    "demo_rating": 4.9,
+    "demo_reviews_count": 780,
+    "warranty_info": "1 Year Apple Limited Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Apple H2 chip powers Adaptive Audio, Active Noise Cancellation and Transparency",
+      "Personalized Spatial Audio with dynamic head tracking places sound all around you",
+      "MagSafe Charging Case (USB-C) with speaker and lanyard loop"
+    ],
+    "specifications": {
+      "Chip": "Apple H2 headphone chip, U1 chip in case",
+      "Sweat and Water Resistance": "IP54 for earbuds and case",
+      "Battery": "Up to 6 hours listening with ANC, 30 hours total with case",
+      "Connector": "USB-C, MagSafe, Qi wireless"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "boAt Airdopes 141 ANC Truly Wireless Earbuds (Gunmetal Black)",
+    "brand": "boAt",
+    "model": "Airdopes 141 ANC",
+    "model_identifier": "AD141ANC-BLK",
+    "category": "Audio & Wearables",
+    "subcategory": "TWS Earbuds",
+    "demo_mrp_inr": 5990,
+    "demo_selling_price_inr": 1499,
+    "demo_stock_quantity": 150,
+    "demo_rating": 4.5,
+    "demo_reviews_count": 1420,
+    "warranty_info": "1 Year boAt Lifestyle Manufacturer Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Active Noise Cancellation up to 32dB cancels out background commute noise",
+      "Massive 42 hours total playtime with ASAP charge (10 mins = 120 mins playtime)",
+      "ENx quad microphones provide clear hands-free voice calling"
+    ],
+    "specifications": {
+      "Driver": "10mm Signature Drivers",
+      "ANC": "Up to 32dB Active Noise Cancellation",
+      "Latency": "BEAST Mode 50ms low latency",
+      "Bluetooth": "v5.3",
+      "Water Resistance": "IPX5"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "boAt Rockerz 550 Over-Ear Wireless Headphones (Army Green)",
+    "brand": "boAt",
+    "model": "Rockerz 550",
+    "model_identifier": "RCKZ550-GRN",
+    "category": "Audio & Wearables",
+    "subcategory": "Over-Ear Headphones",
+    "demo_mrp_inr": 4999,
+    "demo_selling_price_inr": 1799,
+    "demo_stock_quantity": 95,
+    "demo_rating": 4.4,
+    "demo_reviews_count": 980,
+    "warranty_info": "1 Year boAt Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "50mm dynamic drivers deliver punchy bass and crystalline audio",
+      "Physical noise isolation ear cushions for comfortable prolonged gaming and music",
+      "Up to 20 hours of continuous wireless playback"
+    ],
+    "specifications": {
+      "Driver": "50mm Dynamic Drivers",
+      "Battery": "500mAh (Up to 20 Hours Playback)",
+      "Connectivity": "Bluetooth v5.0 and 3.5mm AUX dual mode",
+      "Charging Time": "2.5 Hours"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Noise ColorFit Ultra 3 Smartwatch (1.96-inch AMOLED - Jet Black)",
+    "brand": "Noise",
+    "model": "ColorFit Ultra 3",
+    "model_identifier": "WRB-SW-COLORFITULTRA3-BLK",
+    "category": "Audio & Wearables",
+    "subcategory": "Smartwatches",
+    "demo_mrp_inr": 7999,
+    "demo_selling_price_inr": 2799,
+    "demo_stock_quantity": 110,
+    "demo_rating": 4.5,
+    "demo_reviews_count": 650,
+    "warranty_info": "1 Year Noise Domestic Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Massive 1.96-inch AMOLED display with 410x502 resolution and 7-day battery",
+      "Single-chip TruSync Bluetooth calling with functional rotating crown",
+      "Noise Health Suite: 24x7 Heart rate, SpO2, Sleep tracking and Stress monitor"
+    ],
+    "specifications": {
+      "Display": "1.96-inch AMOLED (410 x 502 pixels)",
+      "Battery Life": "Up to 7 days (2 days with heavy BT calling)",
+      "Water Resistance": "IP68",
+      "Sports Modes": "100+ Sports Modes"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Titan Celestor Smartwatch (1.43-inch AMOLED, GPS, BT Calling - Deep Blue)",
+    "brand": "Titan",
+    "model": "Titan Celestor",
+    "model_identifier": "90176AP01",
+    "category": "Audio & Wearables",
+    "subcategory": "Smartwatches",
+    "demo_mrp_inr": 12995,
+    "demo_selling_price_inr": 7995,
+    "demo_stock_quantity": 45,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 154,
+    "warranty_info": "1 Year Titan India Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Ultra-sharp 1.43-inch AMOLED display with 1000 nits brightness and AOD",
+      "Standalone multi-satellite GPS for precise outdoor run and trek telemetry",
+      "Metallic bezel with premium silicone strap crafted by Titan design studio"
+    ],
+    "specifications": {
+      "Display": "1.43-inch AMOLED 466x466",
+      "GPS": "Built-in standalone GNSS GPS",
+      "Battery": "Up to 7 days standard usage",
+      "Water Resistance": "3 ATM"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Philips Digital Air Fryer XXL 7.2L 1.4kg (HD9280/90 - Black)",
+    "brand": "Philips",
+    "model": "HD9280/90",
+    "model_identifier": "HD9280/90",
+    "category": "Home & Kitchen",
+    "subcategory": "Kitchen Appliances",
+    "demo_mrp_inr": 18995,
+    "demo_selling_price_inr": 12999,
+    "demo_stock_quantity": 35,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 310,
+    "warranty_info": "2 Years Philips India Worldwide Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Rapid Air Technology with starfish base cooks evenly with up to 90% less fat",
+      "Family-sized 7.2L pan capacity fits a whole chicken or 1.4 kg of French fries",
+      "Connected NutriU App allows remote recipe monitoring from your phone"
+    ],
+    "specifications": {
+      "Capacity": "7.2 Litres (1.4 kg)",
+      "Power": "2000W",
+      "Presets": "7 One-touch cooking presets",
+      "Cleaning": "QuickClean non-stick dishwasher-safe basket"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Prestige Iris Plus 750 Watt Mixer Grinder with 4 Jars (Black)",
+    "brand": "Prestige",
+    "model": "Iris Plus 750W",
+    "model_identifier": "IRIS-PLUS-750",
+    "category": "Home & Kitchen",
+    "subcategory": "Kitchen Appliances",
+    "demo_mrp_inr": 6195,
+    "demo_selling_price_inr": 3299,
+    "demo_stock_quantity": 75,
+    "demo_rating": 4.5,
+    "demo_reviews_count": 1100,
+    "warranty_info": "2 Years Warranty on Product & Motor",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Heavy-duty 750 Watt motor grinds hardest Indian spices and idli batter",
+      "Includes 4 versatile jars: 1.5L Wet Jar, 1.0L Dry Jar, 300ml Chutney Jar, 1.5L Juicer",
+      "Ergonomically designed sturdy handles with overload protection switch"
+    ],
+    "specifications": {
+      "Motor Power": "750 Watts",
+      "Blades": "Super-efficient 304 Stainless Steel",
+      "Jars": "3 Stainless Steel Jars + 1 Transparent Juicer Jar",
+      "Speed Controls": "3 Speed + Whip Pulse"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Dyson V12 Detect Slim Total Clean Cordless Vacuum Cleaner (Yellow/Iron)",
+    "brand": "Dyson",
+    "model": "V12 Detect Slim",
+    "model_identifier": "368340-01",
+    "category": "Home & Kitchen",
+    "subcategory": "Vacuum & Air Cleaners",
+    "demo_mrp_inr": 55900,
+    "demo_selling_price_inr": 48900,
+    "demo_stock_quantity": 20,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 215,
+    "warranty_info": "2 Years Dyson India Comprehensive Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Fluffy Optic illuminated cleaner head reveals invisible micro-dust on hard floors",
+      "Piezo sensor continuously measures dust particle sizes and auto-increases suction",
+      "Single-button power control with up to 60 minutes fade-free suction"
+    ],
+    "specifications": {
+      "Suction Power": "150 Air Watts",
+      "Filtration": "Whole-machine HEPA filtration 99.99% to 0.1 microns",
+      "Weight": "2.2 kg ultralight",
+      "Run Time": "Up to 60 minutes"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Hawkins Contura Hard Anodized Inner Lid Pressure Cooker 3 Litre (Black)",
+    "brand": "Hawkins",
+    "model": "Contura 3L",
+    "model_identifier": "CXT30",
+    "category": "Home & Kitchen",
+    "subcategory": "Kitchen Appliances",
+    "demo_mrp_inr": 2275,
+    "demo_selling_price_inr": 1899,
+    "demo_stock_quantity": 85,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 850,
+    "warranty_info": "5 Years Hawkins India Limited Guarantee",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Hard anodized body absorbs heat faster and will not react with acidic foods",
+      "Rounded curved sides for easy stirring and quick removal of cooked food",
+      "Inside-fitting safety lid cannot be opened until internal pressure falls"
+    ],
+    "specifications": {
+      "Capacity": "3.0 Litres",
+      "Base Thickness": "3.25 mm",
+      "Material": "Hard Anodized Aluminum",
+      "Cooktop Compatibility": "Gas Stove Compatible"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Bajaj Rex 500W Mixer Grinder with 3 Jars (White)",
+    "brand": "Bajaj",
+    "model": "Bajaj Rex 500W",
+    "model_identifier": "REX-500W",
+    "category": "Home & Kitchen",
+    "subcategory": "Kitchen Appliances",
+    "demo_mrp_inr": 3210,
+    "demo_selling_price_inr": 1999,
+    "demo_stock_quantity": 90,
+    "demo_rating": 4.4,
+    "demo_reviews_count": 670,
+    "warranty_info": "1 Year Bajaj Consumer Care Warranty",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "500W Titan motor equipped with motor overload protector",
+      "Multi-functional stainless steel blade system for fine purees and masalas",
+      "Rust-proof durable ABS plastic body"
+    ],
+    "specifications": {
+      "Power": "500 Watts",
+      "Jars": "1.2L Liquidizing, 0.8L Multi-purpose, 0.3L Chutney Jar",
+      "Speed Control": "3 Speeds with Incher"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Levi's Men's 511 Slim Fit Stretch Denim Jeans (Dark Indigo)",
+    "brand": "Levi's",
+    "model": "Levi's 511 Slim Fit",
+    "model_identifier": "04511-5367",
+    "category": "Fashion & Apparel",
+    "subcategory": "Men Footwear & Apparel",
+    "demo_mrp_inr": 3999,
+    "demo_selling_price_inr": 2299,
+    "demo_stock_quantity": 80,
+    "demo_rating": 4.6,
+    "demo_reviews_count": 430,
+    "warranty_info": "100% Genuine Levi's Guarantee",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "A modern slim fit that provides room to move without sagging",
+      "Engineered with Levi's Flex active stretch for maximum flexibility",
+      "Classic 5-pocket styling with signature arcuate stitching"
+    ],
+    "specifications": {
+      "Fit": "Slim from hip to ankle",
+      "Rise": "Low Rise",
+      "Fabric": "99% Cotton, 1% Elastane",
+      "Care": "Machine wash cold with like colors"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Levi's Men's 501 Original Fit Button-Fly Jeans (Medium Stonewash)",
+    "brand": "Levi's",
+    "model": "Levi's 501 Original",
+    "model_identifier": "00501-0114",
+    "category": "Fashion & Apparel",
+    "subcategory": "Men Footwear & Apparel",
+    "demo_mrp_inr": 4499,
+    "demo_selling_price_inr": 2699,
+    "demo_stock_quantity": 65,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 520,
+    "warranty_info": "100% Genuine Levi's Guarantee",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "The original blue jean created in 1873 with iconic straight fit",
+      "Signature copper rivets and iconic button fly closure",
+      "Durable non-stretch heavyweight denim that molds to your body"
+    ],
+    "specifications": {
+      "Fit": "Regular fit through thigh, straight leg",
+      "Rise": "Mid Rise",
+      "Fabric": "100% Non-Stretch Cotton Denim",
+      "Closure": "Button Fly"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Fabindia Men's Handcrafted Silk Cotton Long Kurta (Maroon)",
+    "brand": "Fabindia",
+    "model": "Silk Cotton Long Kurta",
+    "model_identifier": "10729482",
+    "category": "Fashion & Apparel",
+    "subcategory": "Men Footwear & Apparel",
+    "demo_mrp_inr": 3490,
+    "demo_selling_price_inr": 2443,
+    "demo_stock_quantity": 45,
+    "demo_rating": 4.6,
+    "demo_reviews_count": 180,
+    "warranty_info": "Handloom Certification Included",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Handwoven silk cotton fabric offering regal sheen with breathable comfort",
+      "Classic Chinese collar with mother-of-pearl buttons and side pockets",
+      "Traditional artisanal dye techniques crafted by rural Indian handloom clusters"
+    ],
+    "specifications": {
+      "Fabric": "Silk Cotton Handloom Blend",
+      "Length": "Knee Length",
+      "Collar": "Mandarin / Chinese Collar",
+      "Occasion": "Festive & Wedding"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Fabindia Women's Chanderi Silk Zari Border Saree (Royal Blue)",
+    "brand": "Fabindia",
+    "model": "Chanderi Zari Saree",
+    "model_identifier": "10714201",
+    "category": "Fashion & Apparel",
+    "subcategory": "Women Ethnic & Fusion",
+    "demo_mrp_inr": 7990,
+    "demo_selling_price_inr": 5999,
+    "demo_stock_quantity": 30,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 95,
+    "warranty_info": "Silk Mark Certified Handloom",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Lightweight Chanderi silk with delicate golden zari woven borders",
+      "Includes unstitched blouse piece in matching pure silk blend",
+      "Drapes effortlessly with rich Indian heritage luster"
+    ],
+    "specifications": {
+      "Fabric": "Pure Chanderi Silk with Zari",
+      "Length": "5.5 meters saree + 0.8 meter blouse",
+      "Care": "Dry clean only"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Forest Essentials Soundarya Radiance Cream with 24K Gold & SPF 25 (50g)",
+    "brand": "Forest Essentials",
+    "model": "Soundarya Radiance Cream",
+    "model_identifier": "FE-SD-50G",
+    "category": "Beauty & Grooming",
+    "subcategory": "Luxury Skincare",
+    "demo_mrp_inr": 5400,
+    "demo_selling_price_inr": 4860,
+    "demo_stock_quantity": 40,
+    "demo_rating": 4.8,
+    "demo_reviews_count": 210,
+    "warranty_info": "100% Ayurvedic Genuine Formulation",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Formulated with pure 24 Karat gold bhasma, saffron and cold-pressed sesame oil",
+      "Improves skin elasticity while giving a luminous golden glow",
+      "SPF 25 broad spectrum UVA/UVB defense against environmental damage"
+    ],
+    "specifications": {
+      "Skin Type": "Normal, Dry & Mature Skin",
+      "Key Ingredients": "24K Gold Bhasma, Saffron, Ashwagandha",
+      "Net Weight": "50 grams",
+      "Free From": "Parabens, Petrochemicals, SLS"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  },
+  {
+    "product_name": "Forest Essentials Delicate Facial Cleanser Kashmiri Saffron & Neem (200ml)",
+    "brand": "Forest Essentials",
+    "model": "Facial Cleanser Saffron & Neem",
+    "model_identifier": "FE-FC-200ML",
+    "category": "Beauty & Grooming",
+    "subcategory": "Luxury Skincare",
+    "demo_mrp_inr": 1550,
+    "demo_selling_price_inr": 1395,
+    "demo_stock_quantity": 65,
+    "demo_rating": 4.7,
+    "demo_reviews_count": 380,
+    "warranty_info": "100% Ayurvedic Genuine Formulation",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Purifies and cleanses pore deep without stripping natural moisture",
+      "Infused with therapeutic organic neem and pure Kashmiri saffron",
+      "Leaves skin feeling supple, soft and visibly radiant"
+    ],
+    "specifications": {
+      "Skin Type": "All Skin Types (Ideal for combination/blemish prone)",
+      "Volume": "200 ml",
+      "Ingredients": "Neem Oil, Kashmiri Saffron, Kewda Water"
+    },
+    "warehouse_location": "Bengaluru Fulfillment Hub"
+  },
+  {
+    "product_name": "Philips OneBlade Hybrid Trimmer & Shaver QP2824 (Lime Green)",
+    "brand": "Philips",
+    "model": "OneBlade QP2824",
+    "model_identifier": "QP2824/10",
+    "category": "Beauty & Grooming",
+    "subcategory": "Personal Grooming",
+    "demo_mrp_inr": 2195,
+    "demo_selling_price_inr": 1699,
+    "demo_stock_quantity": 85,
+    "demo_rating": 4.6,
+    "demo_reviews_count": 740,
+    "warranty_info": "2 Years Worldwide Guarantee",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1503925805576-f4e345da9707?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Revolutionary hybrid blade trims, edges and shaves any length of hair",
+      "Dual protection system with glide coating and rounded polymer tips",
+      "100% waterproof IPX7 body for wet or dry shaving in shower"
+    ],
+    "specifications": {
+      "Blade Lifespan": "Up to 4 months per blade",
+      "Battery": "NimH battery (45 mins run time)",
+      "Waterproof": "IPX7 Washable",
+      "Combs": "5-in-1 adjustable stubble comb (1-5mm)"
+    },
+    "warehouse_location": "Mumbai Bhiwandi Central"
+  },
+  {
+    "product_name": "Philips Series 3000 Stainless Steel Blade Beard Trimmer (BT3231/15 - Blue)",
+    "brand": "Philips",
+    "model": "Series 3000 BT3231",
+    "model_identifier": "BT3231/15",
+    "category": "Beauty & Grooming",
+    "subcategory": "Personal Grooming",
+    "demo_mrp_inr": 1895,
+    "demo_selling_price_inr": 1399,
+    "demo_stock_quantity": 95,
+    "demo_rating": 4.5,
+    "demo_reviews_count": 890,
+    "warranty_info": "2 + 1 Year Manufacturer Warranty with Registration",
+    "return_policy_days": 7,
+    "cod_available": true,
+    "image_url": "https://images.unsplash.com/photo-1503925805576-f4e345da9707?auto=format&fit=crop&w=800&q=80",
+    "highlights": [
+      "Lift & Trim system cuts 30% faster by lifting low-lying hairs to blade level",
+      "Self-sharpening titanium-coated stainless steel blades stay as sharp as day one",
+      "DuraPower technology reduces friction and extends battery life 4 times"
+    ],
+    "specifications": {
+      "Precision Settings": "20 length settings (0.5mm - 10mm)",
+      "Run Time": "Up to 60 minutes cordless use",
+      "Blades": "Self-sharpening Stainless Steel",
+      "Charging": "USB charging cord"
+    },
+    "warehouse_location": "Delhi-NCR Alpha-2"
+  }
+]

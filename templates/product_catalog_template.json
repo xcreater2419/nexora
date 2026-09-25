@@ -1,0 +1,137 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NEXORA Verified Real Product Import Schema",
+  "description": "Schema definition and template for importing verified commercial product records into NEXORA",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "product_name",
+      "brand",
+      "model",
+      "category",
+      "subcategory",
+      "specifications",
+      "demo_mrp_inr",
+      "demo_selling_price_inr"
+    ],
+    "properties": {
+      "product_name": {
+        "type": "string",
+        "description": "Authentic commercial product name as sold in the Indian retail market"
+      },
+      "brand": {
+        "type": "string",
+        "description": "Real, verified commercial manufacturer or brand"
+      },
+      "model": {
+        "type": "string",
+        "description": "Exact commercial model line"
+      },
+      "model_identifier": {
+        "type": "string",
+        "description": "Official manufacturer part number (MPN), SKU, or model number if available"
+      },
+      "category": {
+        "type": "string",
+        "description": "Primary department category"
+      },
+      "subcategory": {
+        "type": "string",
+        "description": "Target subcategory"
+      },
+      "demo_mrp_inr": {
+        "type": "number",
+        "minimum": 1,
+        "description": "Indian Rupee Maximum Retail Price (clearly marked as demo)"
+      },
+      "demo_selling_price_inr": {
+        "type": "number",
+        "minimum": 1,
+        "description": "Marketplace selling price in INR (clearly marked as demo)"
+      },
+      "demo_stock_quantity": {
+        "type": "integer",
+        "minimum": 0,
+        "default": 20,
+        "description": "Warehouse available inventory units (demo)"
+      },
+      "demo_rating": {
+        "type": "number",
+        "minimum": 1,
+        "maximum": 5,
+        "default": 4.5,
+        "description": "Customer satisfaction score (demo)"
+      },
+      "demo_reviews_count": {
+        "type": "integer",
+        "minimum": 0,
+        "default": 10,
+        "description": "Verified purchase review count (demo)"
+      },
+      "warranty_info": {
+        "type": "string",
+        "default": "1 Year Manufacturer Warranty"
+      },
+      "return_policy_days": {
+        "type": "integer",
+        "default": 7
+      },
+      "cod_available": {
+        "type": "boolean",
+        "default": true
+      },
+      "image_url": {
+        "type": "string",
+        "format": "uri",
+        "description": "License-compliant or public un-copyrighted product reference image"
+      },
+      "highlights": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "3-5 bulleted key genuine technical features"
+      },
+      "specifications": {
+        "type": "object",
+        "additionalProperties": { "type": "string" },
+        "description": "Key-value technical specifications map"
+      },
+      "warehouse_location": {
+        "type": "string",
+        "default": "Bengaluru Fulfillment Hub"
+      }
+    }
+  },
+  "sample_records": [
+    {
+      "product_name": "Apple MacBook Air 13-inch (M3 chip, 8GB Unified Memory, 256GB SSD - Midnight)",
+      "brand": "Apple",
+      "model": "MacBook Air M3",
+      "model_identifier": "MRXU3HN/A",
+      "category": "Laptops & Computers",
+      "subcategory": "Laptops",
+      "demo_mrp_inr": 114900,
+      "demo_selling_price_inr": 104900,
+      "demo_stock_quantity": 28,
+      "demo_rating": 4.8,
+      "demo_reviews_count": 182,
+      "warranty_info": "1 Year Apple Limited Warranty",
+      "return_policy_days": 7,
+      "cod_available": true,
+      "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "highlights": [
+        "Apple M3 8-core CPU and 8-core GPU",
+        "13.6-inch Liquid Retina display with 500 nits brightness",
+        "MagSafe 3 charging port with up to 18 hours battery life"
+      ],
+      "specifications": {
+        "Processor": "Apple M3 (8-core CPU, 8-core GPU, 16-core Neural Engine)",
+        "Memory": "8GB Unified Memory",
+        "Storage": "256GB PCIe SSD",
+        "Display": "13.6-inch LED-backlit Liquid Retina (2560 x 1664)",
+        "Weight": "1.24 kg"
+      },
+      "warehouse_location": "Bengaluru Fulfillment Hub"
+    }
+  ]
+}
